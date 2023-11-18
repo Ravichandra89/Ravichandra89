@@ -1,9 +1,10 @@
 <!-- Your Enhanced Styled Banner -->
 <p align="center" style="margin: 0; padding: 0;">
   <a href="https://ravichandra001.io" style="text-decoration: none;">
-    <img src="https://assets-global.website-files.com/622642781cd7e96ac1f66807/62d0f091fc73b7a5828854b1_022021-Harness-Blogpost-DevOpsGeneric-Header-2400x700-1.png" style="width:100%; max-width: 800px; border-radius: 12px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);">
+    <img src="https://media.licdn.com/dms/image/C4D16AQFs6z8pYrsD0Q/profile-displaybackgroundimage-shrink_200_800/0/1661845040093?e=2147483647&v=beta&t=gXFVOZHg_Odnl4IQnwOSJ7RIHr3h1a2HG1lNQvX_NK8" alt="Banner" style="width:100%; max-width: 800px; border-radius: 12px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);">
   </a>
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Ravi Chandra</h1>
 <h3 align="center">A passionate Infrastructure Engineer from India</h3>
