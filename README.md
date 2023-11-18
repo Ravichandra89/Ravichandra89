@@ -1,7 +1,7 @@
 <!-- Your Enhanced Styled Banner -->
 <p align="center" style="margin: 0; padding: 0;">
   <a href="https://ravichandra001.io" style="text-decoration: none;">
-    <img src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103033/devOps-cloud-native.gif" alt="Banner" style="width:100%; max-width: 800px; border-radius: 12px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);">
+    <img src="https://thumbs.dreamstime.com/b/banner-devops-vector-illustration-concept-software-engineering-culture-practice-development-operation-137594571.jpg" style="width:100%; max-width: 800px; border-radius: 12px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);">
   </a>
 </p>
 
