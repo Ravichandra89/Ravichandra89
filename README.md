@@ -1,7 +1,7 @@
 <!-- Your Enhanced Styled Banner -->
 <p align="center" style="margin: 0; padding: 0;">
   <a href="https://ravichandra001.io" style="text-decoration: none;">
-    <img src="https://thumbs.dreamstime.com/b/banner-devops-vector-illustration-concept-software-engineering-culture-practice-development-operation-137594571.jpg" style="width:100%; max-width: 800px; border-radius: 12px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);">
+    <img src="https://assets-global.website-files.com/622642781cd7e96ac1f66807/62d0f091fc73b7a5828854b1_022021-Harness-Blogpost-DevOpsGeneric-Header-2400x700-1.png" style="width:100%; max-width: 800px; border-radius: 12px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);">
   </a>
 </p>
 
