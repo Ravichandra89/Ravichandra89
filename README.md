@@ -1,4 +1,3 @@
-<!-- Your Enhanced Styled Banner -->
 <p align="center" style="margin: 0; padding: 0;">
   <a href="https://ravichandra001.io" style="text-decoration: none;">
     <img src="https://media.licdn.com/dms/image/C4D16AQFs6z8pYrsD0Q/profile-displaybackgroundimage-shrink_200_800/0/1661845040093?e=2147483647&v=beta&t=gXFVOZHg_Odnl4IQnwOSJ7RIHr3h1a2HG1lNQvX_NK8" alt="Banner" style="width:100%; max-width: 800px; border-radius: 12px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);">
@@ -39,7 +38,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravichandra89&show_icons=true&locale=en" alt="ravichandra89" /></p>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ravichandra89&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravichandra89&" alt="ravichandra89" /></p>
 
