@@ -42,3 +42,14 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravichandra89&" alt="ravichandra89" /></p>
 
 <h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-graph.png" /><i> GitHub Contribution Graph:</i></h2>
+
+[![Dalpat Rathore's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DalpatRathore&theme=rogue&line=f4791f&point=461220)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
+
+<h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-contact.png" /><i> Connect With Me:</i></h2>
+
+<table border="1">
+  <tr>
+    <td>
+      <table border="0">
