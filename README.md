@@ -41,5 +41,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravichandra89&" alt="ravichandra89" /></p>
 
-https://skyline.github.com/dend/2020.json
 
