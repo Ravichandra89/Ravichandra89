@@ -41,11 +41,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravichandra89&" alt="ravichandra89" /></p>
 
-# Your Project Name
-
-[![GitHub contributors](https://img.shields.io/github/contributors/Ravichandra89/Ravichandra89.svg)](https://github.com/Ravichandra89/Ravichandra89/graphs/contributors)
-[![GitHub last commit](https://img.shields.io/github/last-commit/Ravichandra89/Ravichandra89.svg)](https://github.com/Ravichandra89/Ravichandra89/commits/main)
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Ravichandra89/Ravichandra89.svg)](https://github.com/Ravichandra89/Ravichandra89/commits/main)
-
-<!-- Other sections of your README.md -->
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ravichandra89&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
