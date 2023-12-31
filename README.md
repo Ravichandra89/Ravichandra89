@@ -13,8 +13,6 @@
 
 - 🌱 I’m currently learning **DevSecOps, GCP, Preparing for SAA-03 Exam.**
 
-- 📝 I regularly write articles on [AWS & DevOps](AWS & DevOps)
-
 - 💬 Ask me about **Cloud Computing (AWS), DevOps, Deployment, Coding, Roadmap Guidance.**
 
 - 📫 How to reach me **ravi.21jdai027@jietjodhpur.ac.in**
