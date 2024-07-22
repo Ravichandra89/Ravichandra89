@@ -4,15 +4,15 @@
 
 
 <h1 align="center">Hi 👋, I'm Ravi Chandra</h1>
-<h3 align="center">A passionate Computer Science Engineer from India</h3>
+<h3 align="center">A passionate FullStack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://www.sureworks.in/images/Computing.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravichandra89&label=Profile%20views&color=0e75b6&style=flat" alt="ravichandra89" /> </p>
 
 - 🔭 I’m currently working on [Social Media](https://github.com/RaviChandra001)
 
-- 🌱 I’m currently learning **DevSecOps, GCP, Preparing for SAA-03 Exam.**
+- 🌱 I’m currently learning **NextJs, React, NodeJS, MongoDb, Express, AWS, DevOPS**
 
-- 💬 Ask me about **Cloud Computing (AWS), DevOps, Deployment, Coding, Roadmap Guidance.**
+- 💬 Ask me about **Cloud Computing (AWS), FullStack, DevOps, Deployment, Coding, Roadmap Guidance.**
 
 - 📫 How to reach me **ravi.21jdai027@jietjodhpur.ac.in**
 
