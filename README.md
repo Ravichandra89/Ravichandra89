@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm Ravi Chandra</h1>
 <h3 align="center">A passionate FullStack Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://www.sureworks.in/images/Computing.gif">
+<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQHGG4J6b6OmyQ/article-cover_image-shrink_720_1280/0/1709674937953?e=2147483647&v=beta&t=D46aQMTStnlCf7s6GPq67PFXzmWSTtPoQRtH60tacuo">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravichandra89&label=Profile%20views&color=0e75b6&style=flat" alt="ravichandra89" /> </p>
 
 - 🔭 I’m currently working on [Social Media](https://github.com/RaviChandra001)
